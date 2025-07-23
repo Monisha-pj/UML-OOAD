@@ -58,13 +58,12 @@ UML Diagrams
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ooad-lab.git
+   git clone https://github.com/Monisha-pj/UML-OOAD.git
+   ```
 2. Open the UML diagrams in a tool like StarUML, Visual Paradigm, or Lucidchart to view or edit.
    
 ## Usage
 1. Review the UML diagrams to understand the system's requirements and interactions.
 2. Modify the diagrams as needed to adapt to new requirements or scenarios.
 
-```plaintext
-Feel free to copy the entire block starting from `# OOAD Lab Project` down to the end. This will include your requested additions under the **Installation** and **Usage** sections. Let me know if you need any more changes!
-```
+
